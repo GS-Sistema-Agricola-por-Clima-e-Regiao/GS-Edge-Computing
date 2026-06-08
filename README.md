@@ -2,14 +2,6 @@
 
 Repositório Global Solution - Edge Computing &amp; Computer Systems
 
----
-
-### Link Simulação Wokwi
-
-* https://wokwi.com/projects/465295052268670977
-
----
-
 ## Integrantes
 
 * Alessandro Malarenko Scarcella - RM:567769
@@ -17,6 +9,12 @@ Repositório Global Solution - Edge Computing &amp; Computer Systems
 * Daniel Taniwaki Pereira - RM:569424
 * Lucas Narimatsu Namba - RM:569274
 * Pedro Kazumy Lima Watanabe - RM:569165
+
+---
+
+### Link Simulação Wokwi
+
+* https://wokwi.com/projects/465295052268670977
 
 ---
 
@@ -115,5 +113,3 @@ Este sistema pode ser usado como uma solução de apoio ao agricultor, permitind
 monitoramento constante das condições climáticas e ajudando no controle da irrigação. Dessa
 forma, é possível reduzir desperdícios de água, melhorar a eficiência do cultivo e aumentar a
 produtividade agrícola.
-
----
