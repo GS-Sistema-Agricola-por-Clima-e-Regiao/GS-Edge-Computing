@@ -89,8 +89,16 @@ As conexões do circuito foram feitas da seguinte forma:
 * SCL conectado ao pino A5.
 
 ---
+
 ## Aplicação na Agricultura
+
 Este sistema pode ser usado como uma solução de apoio ao agricultor, permitindo o
 monitoramento constante das condições climáticas e ajudando no controle da irrigação. Dessa
 forma, é possível reduzir desperdícios de água, melhorar a eficiência do cultivo e aumentar a
 produtividade agrícola.
+
+---
+
+### Link Simulação Wokwi
+
+* https://wokwi.com/projects/465295052268670977
